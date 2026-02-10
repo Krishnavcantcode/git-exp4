@@ -1,4 +1,4 @@
-#Calculate
+#Calculate used for multiplication subtrraction addition
 
 import addition as a
 import subtraction as s
